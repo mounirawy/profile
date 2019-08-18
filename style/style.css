@@ -1,0 +1,10 @@
+.logincontainter{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.bluebaby{
+  color:rgb(85, 83, 92);
+  font-size: 1.2rem;
+}
